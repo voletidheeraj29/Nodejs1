@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2016-04-19T14:31:19</date>
+  <millis>1461056479781</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>INFO</level>
+  <class>log.log1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>test 1</message>
+</record>
+<record>
+  <date>2016-04-19T14:31:19</date>
+  <millis>1461056479853</millis>
+  <sequence>1</sequence>
+  <logger>log1</logger>
+  <level>INFO</level>
+  <class>log.log1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>test 2</message>
+</record>
+<record>
+  <date>2016-04-19T14:31:19</date>
+  <millis>1461056479855</millis>
+  <sequence>2</sequence>
+  <logger>log1</logger>
+  <level>INFO</level>
+  <class>log.log1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>test 3</message>
+</record>
+</log>

@@ -1,0 +1,9 @@
+Hello this is a debug message
+ - 2016-04-21 17:42:15 DEBUG AppTest:31 - Hello this is a debug message
+Hello this is an info message
+ - 2016-04-21 17:42:15 INFO  AppTest:16 - Hello this is an info message
+Error in: null
+ - 2016-04-21 17:42:15 ERROR AppTest:59 - Error in: null
+   2016-04-21 18:44:49 DEBUG AppTest:31 - Hello this is a debug message
+   2016-04-21 18:44:49 INFO  AppTest:16 - Hello this is an info message
+127.0.0.1   2016-04-21 18:44:49 ERROR AppTest:59 - Error in: null

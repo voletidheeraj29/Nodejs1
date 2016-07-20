@@ -1,0 +1,15 @@
+2016-01-13 10:25:20 DEBUG AppTest:31 - Hello this is a debug message
+2016-01-13 10:25:20 INFO  AppTest:16 - Hello this is an info message
+2016-01-13 10:25:20 ERROR AppTest:59 - Error in: null
+2016-01-13 10:32:13 DEBUG AppTest:31 - Hello this is a debug message
+2016-01-13 10:32:13 INFO  AppTest:16 - Hello this is an info message
+2016-01-13 10:32:13 ERROR AppTest:59 - Error in: null
+2016-01-13 10:32:21 DEBUG AppTest:31 - Hello this is a debug message
+2016-01-13 10:32:21 INFO  AppTest:16 - Hello this is an info message
+2016-01-13 10:32:21 ERROR AppTest:59 - Error in: null
+2016-01-13 10:33:10 DEBUG AppTest:31 - Hello this is a debug message
+2016-01-13 10:33:10 INFO  AppTest:16 - Hello this is an info message
+2016-01-13 10:33:10 ERROR AppTest:59 - Error in: null
+2016-01-13 10:42:57 DEBUG AppTest:31 - Hello this is a debug message
+2016-01-13 10:42:57 INFO  AppTest:16 - Hello this is an info message
+2016-01-13 10:42:57 ERROR AppTest:59 - Error in: null

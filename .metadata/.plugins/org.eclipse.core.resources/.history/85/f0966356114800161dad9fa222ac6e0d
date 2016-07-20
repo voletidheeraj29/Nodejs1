@@ -1,0 +1,21 @@
+
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'application'
+
+mainClassName = 'DateTime'
+
+
+repositories {
+    mavenCentral()
+}
+
+jar {
+    manifest {
+        attributes 'Main-Class': 'DateTime'
+    }
+    }
+dependencies {
+    testCompile 'junit:junit:4.12'
+}
